@@ -1,12 +1,12 @@
 Pod::Spec.new do |s|
 
   s.name         = "SWSAlertView"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "A short description of SWSAlertView."
   s.description  = <<-DESC
     这是一个简单自定义的弹框！
                    DESC
-  s.homepage     = "http://EXAMPLE/SWSAlertView"
+  s.homepage     = "https://github.com/shiwensong"
   s.license      = "MIT"
   s.author             = { "shiwensong" => "18996601419@189.cn" }
   s.source       = { :git => "https://github.com/shiwensong/SWSAlertView.git", :tag => "#{s.version}" }
