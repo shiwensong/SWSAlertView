@@ -1,0 +1,20 @@
+PODS:
+  - FDFullscreenPopGesture (1.1)
+  - SDAutoLayout (2.2.0)
+
+DEPENDENCIES:
+  - FDFullscreenPopGesture (= 1.1)
+  - SDAutoLayout (= 2.2.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FDFullscreenPopGesture
+    - SDAutoLayout
+
+SPEC CHECKSUMS:
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  SDAutoLayout: c5509e77ae75735d9a39f7bc83dba6d3f75d49d8
+
+PODFILE CHECKSUM: a3b4fa82c1cbe222dbc0a48661f6273d394af425
+
+COCOAPODS: 1.5.0
